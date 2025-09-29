@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import DogBreedViewer from './components/DogBreedViewer'
 import CacheStatus from './components/CacheStatus'
 import LoginForm from './components/LoginForm'

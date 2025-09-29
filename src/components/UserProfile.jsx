@@ -1,4 +1,4 @@
-import React from 'react'
+// UserProfile component
 
 const UserProfile = ({ user, onLogout }) => {
   const handleLogout = () => {
